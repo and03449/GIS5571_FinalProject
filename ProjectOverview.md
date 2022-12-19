@@ -6,7 +6,7 @@ Glacier melt accounts for 21% of the annual sea-level rise with an increase of 6
 
 ## Data
 
-Extracted raster images from the Planet API
+Extracted raster images from the Planet API (ETL in the Alaska and Iceland folders above)
 
 ## Methods
 
@@ -14,7 +14,7 @@ Using Calculated Fields and Compute Change I will estimate the change in glacial
 
 ## Results
 
-Both Gulkana and Breiðamerkurjökull glaciers are increasing in glacial melt over time
+Both Gulkana and Breiðamerkurjökull glaciers are increasing in glacial melt over time. Chart results available in Alaska and Iceland folders above.
 
 ## References
 
