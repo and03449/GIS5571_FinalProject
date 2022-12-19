@@ -1,4 +1,4 @@
-# GIS5571_FinalProject
+# Estimating Glacial Melt in Iceland and Alaska
 
 ## Problem Statement
 
